@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pop_c"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="9dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/adfly_bg_rewardvideo_pop3">
+        <com.adfly.sdk.core.widget.RoundImageView
+            android:id="@+id/app_icon"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="64dp"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView android:id="@+id/title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#1D1D1D"
+            android:layout_gravity="center_horizontal"/>
+        <TextView android:id="@+id/desc_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:textColor="#5F5F5F"
+            android:textSize="16sp"/>
+
+        <LinearLayout android:id="@+id/down_btn_lin_start"
+            android:layout_width="295dp"
+            android:layout_height="40dp"
+            android:orientation="vertical"
+            android:background="@drawable/adfly_bg_rewardvideo_pop_btn"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="64dp"
+            android:layout_gravity="center_horizontal">
+            <TextView android:id="@+id/down_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:drawableLeft="@mipmap/adfly_down_icon"
+                android:drawablePadding="12dp"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="@android:color/white"
+                tools:text= "aaaaaaaaaaa"/>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</LinearLayout>
+

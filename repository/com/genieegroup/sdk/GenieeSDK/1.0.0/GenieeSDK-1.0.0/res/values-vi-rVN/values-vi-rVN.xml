@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adfly_app_no_install_tips">Hãy cài đặt ứng dụng này trước</string>
+    <string name="adfly_nativead_video_replay">Xem lại</string>
+    <string name="adfly_network_error_setting">Thiết lập mạng</string>
+    <string name="adfly_network_error_text">Không có kết nối mạng, bấm để thử lại</string>
+    <string name="adfly_rewardedvideo_time_tips">Nhận phần thưởng sau khi %ds</string>
+</resources>

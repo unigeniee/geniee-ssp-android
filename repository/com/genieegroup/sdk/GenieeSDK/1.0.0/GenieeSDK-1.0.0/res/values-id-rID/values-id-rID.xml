@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adfly_app_no_install_tips">Silakan instal aplikasinya terlebih dahulu</string>
+    <string name="adfly_nativead_video_replay">Putar ulang</string>
+    <string name="adfly_network_error_setting">Pengaturan jaringan</string>
+    <string name="adfly_network_error_text">Permintaan jaringan gagal, silakan ketuk untuk mencoba kembali.</string>
+    <string name="adfly_rewardedvideo_time_tips">Dapatkan hadiah setelah %ds</string>
+</resources>

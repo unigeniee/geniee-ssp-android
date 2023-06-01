@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adfly_app_no_install_tips">Primero instale la aplicación</string>
+    <string name="adfly_nativead_video_replay">Repetición</string>
+    <string name="adfly_network_error_setting">Configuración de red</string>
+    <string name="adfly_network_error_text">La solicitud de red falló, haga clic para volver a intentarlo</string>
+    <string name="adfly_rewardedvideo_time_tips">Obtén recompensa después %ds</string>
+</resources>

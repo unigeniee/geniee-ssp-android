@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <attr format="reference" name="recyclerViewStyle"/>
+    <bool name="enable_system_alarm_service_default">true</bool>
+    <bool name="enable_system_foreground_service_default">true</bool>
+    <bool name="enable_system_job_service_default">false</bool>
+    <bool name="workmanager_test_configuration">false</bool>
+    <color name="applovin_sdk_adBadgeTextColor">#0A5B17</color>
+    <color name="applovin_sdk_adControlbutton_brightBlueColor">#1376FF</color>
+    <color name="applovin_sdk_brand_color">#0583aa</color>
+    <color name="applovin_sdk_brand_color_dark">#02627F</color>
+    <color name="applovin_sdk_checkmarkColor">#4CD964</color>
+    <color name="applovin_sdk_colorEdgeEffect">@android:color/black</color>
+    <color name="applovin_sdk_ctaButtonColor">#4285F4</color>
+    <color name="applovin_sdk_ctaButtonPressedColor">#0059c1</color>
+    <color name="applovin_sdk_disclosureButtonColor">#C4C4C4</color>
+    <color name="applovin_sdk_greenColor">#4CD964</color>
+    <color name="applovin_sdk_listViewBackground">#EFEFF4</color>
+    <color name="applovin_sdk_listViewSectionTextColor">#97979B</color>
+    <color name="applovin_sdk_textColorPrimary">@android:color/white</color>
+    <color name="applovin_sdk_xmarkColor">#FF3B30</color>
+    <color name="browser_actions_bg_grey">#F5F5F5</color>
+    <color name="browser_actions_divider_color">#1E000000</color>
+    <color name="browser_actions_text_color">#DE000000</color>
+    <color name="browser_actions_title_color">#646464</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="tt_black">#000000</color>
+    <color name="tt_cancle_bg">#FDDCDCDC</color>
+    <color name="tt_divider">#DCDCDC</color>
+    <color name="tt_download_app_name">#333333</color>
+    <color name="tt_download_bar_background">#C21E1E1E</color>
+    <color name="tt_download_bar_background_new">#E4FFFFFF</color>
+    <color name="tt_download_text_background">#4A90E2</color>
+    <color name="tt_draw_btn_back">#D33F57</color>
+    <color name="tt_full_interaction_bar_background">#26000000</color>
+    <color name="tt_full_interaction_dialog_background">#88000000</color>
+    <color name="tt_full_screen_skip_bg">#904A4A4A</color>
+    <color name="tt_full_status_bar_color">#000000</color>
+    <color name="tt_header_font">#FF9B9B9B</color>
+    <color name="tt_heise3">#999999</color>
+    <color name="tt_listview">#FDFFFFFF</color>
+    <color name="tt_listview_press">#FDE6E6E6</color>
+    <color name="tt_rating_comment">#999999</color>
+    <color name="tt_rating_comment_vertical">#4A4A4A</color>
+    <color name="tt_rating_star">#F5A623</color>
+    <color name="tt_skip_red">#FFDF112A</color>
+    <color name="tt_ssxinbaise4">@color/tt_white</color>
+    <color name="tt_ssxinbaise4_press">#7fffffff</color>
+    <color name="tt_ssxinheihui3">#999999</color>
+    <color name="tt_ssxinhongse1">#f85959</color>
+    <color name="tt_ssxinmian1">#e0e0e0</color>
+    <color name="tt_ssxinmian11">#e5000000</color>
+    <color name="tt_ssxinmian15">#7f000000</color>
+    <color name="tt_ssxinmian6">@color/tt_ssxinheihui3</color>
+    <color name="tt_ssxinmian7">@color/tt_ssxinhongse1</color>
+    <color name="tt_ssxinmian8">#2a90d7</color>
+    <color name="tt_ssxinxian11">@color/tt_ssxinbaise4</color>
+    <color name="tt_ssxinxian11_selected">@color/tt_ssxinbaise4_press</color>
+    <color name="tt_ssxinxian3">#2a90d7</color>
+    <color name="tt_ssxinxian3_press">#7f2a90d7</color>
+    <color name="tt_ssxinzi12">@color/tt_white</color>
+    <color name="tt_ssxinzi15">@color/tt_ssxinbaise4</color>
+    <color name="tt_ssxinzi4">@color/tt_ssxinhongse1</color>
+    <color name="tt_ssxinzi9">#cacaca</color>
+    <color name="tt_text_font">#FF4A4A4A</color>
+    <color name="tt_titlebar_background_dark">#46000000</color>
+    <color name="tt_titlebar_background_ffffff">#ffffff</color>
+    <color name="tt_titlebar_background_light">#e0e0e0</color>
+    <color name="tt_trans_black">#00000000</color>
+    <color name="tt_trans_half_black">#FF1A1A1A</color>
+    <color name="tt_transparent">#00000000</color>
+    <color name="tt_video_player_text">@color/tt_white</color>
+    <color name="tt_video_player_text_withoutnight">@color/tt_white</color>
+    <color name="tt_video_playerbg_color">#000000</color>
+    <color name="tt_video_shadow_color">#72000000</color>
+    <color name="tt_video_shaoow_color_fullscreen">#B2000000</color>
+    <color name="tt_video_time_color">#ffffff</color>
+    <color name="tt_video_traffic_tip_background_color">#000000</color>
+    <color name="tt_video_transparent">#1E000000</color>
+    <color name="tt_white">#ffffff</color>
+    <dimen name="applovin_sdk_actionBarHeight">60dp</dimen>
+    <dimen name="applovin_sdk_adControlButton_height">40dp</dimen>
+    <dimen name="applovin_sdk_adControlButton_width">70dp</dimen>
+    <dimen name="applovin_sdk_mediationDebuggerDetailListItemTextSize">15sp</dimen>
+    <dimen name="applovin_sdk_mediationDebuggerSectionHeight">50dp</dimen>
+    <dimen name="applovin_sdk_mediationDebuggerSectionTextSize">13sp</dimen>
+    <dimen name="applovin_sdk_mrec_height">250dp</dimen>
+    <dimen name="applovin_sdk_mrec_width">300dp</dimen>
+    <dimen name="browser_actions_context_menu_max_width">500dp</dimen>
+    <dimen name="browser_actions_context_menu_min_padding">20dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="fastscroll_default_thickness">8dp</dimen>
+    <dimen name="fastscroll_margin">0dp</dimen>
+    <dimen name="fastscroll_minimum_range">50dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="tt_video_container_maxheight">228dp</dimen>
+    <dimen name="tt_video_container_minheight">160dp</dimen>
+    <dimen name="tt_video_cover_padding_horizon">15dp</dimen>
+    <dimen name="tt_video_cover_padding_vertical">14dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="accessibility_action_clickable_span" type="id"/>
+    <item name="accessibility_custom_action_0" type="id"/>
+    <item name="accessibility_custom_action_1" type="id"/>
+    <item name="accessibility_custom_action_10" type="id"/>
+    <item name="accessibility_custom_action_11" type="id"/>
+    <item name="accessibility_custom_action_12" type="id"/>
+    <item name="accessibility_custom_action_13" type="id"/>
+    <item name="accessibility_custom_action_14" type="id"/>
+    <item name="accessibility_custom_action_15" type="id"/>
+    <item name="accessibility_custom_action_16" type="id"/>
+    <item name="accessibility_custom_action_17" type="id"/>
+    <item name="accessibility_custom_action_18" type="id"/>
+    <item name="accessibility_custom_action_19" type="id"/>
+    <item name="accessibility_custom_action_2" type="id"/>
+    <item name="accessibility_custom_action_20" type="id"/>
+    <item name="accessibility_custom_action_21" type="id"/>
+    <item name="accessibility_custom_action_22" type="id"/>
+    <item name="accessibility_custom_action_23" type="id"/>
+    <item name="accessibility_custom_action_24" type="id"/>
+    <item name="accessibility_custom_action_25" type="id"/>
+    <item name="accessibility_custom_action_26" type="id"/>
+    <item name="accessibility_custom_action_27" type="id"/>
+    <item name="accessibility_custom_action_28" type="id"/>
+    <item name="accessibility_custom_action_29" type="id"/>
+    <item name="accessibility_custom_action_3" type="id"/>
+    <item name="accessibility_custom_action_30" type="id"/>
+    <item name="accessibility_custom_action_31" type="id"/>
+    <item name="accessibility_custom_action_4" type="id"/>
+    <item name="accessibility_custom_action_5" type="id"/>
+    <item name="accessibility_custom_action_6" type="id"/>
+    <item name="accessibility_custom_action_7" type="id"/>
+    <item name="accessibility_custom_action_8" type="id"/>
+    <item name="accessibility_custom_action_9" type="id"/>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_accessibility_actions" type="id"/>
+    <item name="tag_accessibility_clickable_spans" type="id"/>
+    <item name="tag_accessibility_heading" type="id"/>
+    <item name="tag_accessibility_pane_title" type="id"/>
+    <item name="tag_screen_reader_focusable" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="tag_unhandled_key_event_manager" type="id"/>
+    <item name="tag_unhandled_key_listeners" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <item name="tt_id_click_area_type" type="id"/>
+    <item name="tt_id_click_begin" type="id"/>
+    <item name="tt_id_click_end" type="id"/>
+    <item name="tt_id_click_tag" type="id"/>
+    <item name="tt_id_direction" type="id"/>
+    <item name="tt_id_is_video_picture" type="id"/>
+    <item name="tt_id_open_landing_page" type="id"/>
+    <item name="tt_id_ripple_bg" type="id"/>
+    <item name="tt_id_root_web_view" type="id"/>
+    <item name="tt_id_shine_width" type="id"/>
+    <item name="tt_id_width" type="id"/>
+    <integer name="google_play_services_version">12451000</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="tt_video_progress_max">100</integer>
+    <string name="ad">ad</string>
+    <string name="adfly_app_no_install_tips">Please install the app first</string>
+    <string name="adfly_interstitial_time_tips" translatable="false">%ds</string>
+    <string name="adfly_nativead_video_replay">Replay</string>
+    <string name="adfly_network_error_setting">Network settings</string>
+    <string name="adfly_network_error_text">Network request failed, please tap to try again</string>
+    <string name="adfly_rewardedvideo_time_tips">Get reward after %ds</string>
+    <string name="androidx_startup" translatable="false">androidx.startup</string>
+    <string name="app_name">encryptor</string>
+    <string name="applovin_list_item_image_description">Displays more info about the list item.</string>
+    <string name="cancel">Cancel</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="copy_toast_msg">Link copied to clipboard</string>
+    <string name="date_format_month_day">EEEE, MMMM d</string>
+    <string name="date_format_year_month_day">EEEE, MMMM d yyyy</string>
+    <string name="empty"/>
+    <string name="failed_to_get_more">Failed to load more.</string>
+    <string name="failed_to_load">Failed to load.</string>
+    <string name="failed_to_refresh">Failed to refresh.</string>
+    <string name="fallback_menu_item_copy_link">Copy link</string>
+    <string name="fallback_menu_item_open_in_browser">Open in browser</string>
+    <string name="fallback_menu_item_share_link">Share link</string>
+    <string name="getting_more">Loading more…</string>
+    <string name="just_before">Just before</string>
+    <string name="loading">Loading…</string>
+    <string name="no">No</string>
+    <string name="no_thank_you">No,thank you</string>
+    <string description="Text of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]" name="offline_notification_text">
+      Tap to open ad</string>
+    <string description="Title of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]" name="offline_notification_title">
+      View the ad you saved when you were offline</string>
+    <string description="Label on the button to opt in to a notification later when the user is back online. [CHAR_LIMIT=12]" name="offline_opt_in_confirm">
+      OK</string>
+    <string description="Confirmation text displayed when the user opts in to get a notification. [CHAR_LIMIT=NONE]" name="offline_opt_in_confirmation">
+      You\'ll get a notification with the link when you\'re back online</string>
+    <string description="Label on the button to decline to get a notification later when the user is back online. [CHAR_LIMIT=12]" name="offline_opt_in_decline">
+      No thanks</string>
+    <string description="Body of the dialog presented when an ad is clicked while offline. [CHAR_LIMIT=NONE]" name="offline_opt_in_message">
+      We\'ll send you a notification with a link to the advertiser site.</string>
+    <string description="Title of the dialog presented when an ad is clicked while offline. [CHAR_LIMIT=NONE]" name="offline_opt_in_title">
+      Open ad when you\'re back online.</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="pull_down_to_load">Pull down to load.</string>
+    <string name="pull_down_to_refresh">Pull down to refresh.</string>
+    <string name="pull_up_to_get_more">Pull up to load more.</string>
+    <string name="refresh">Refresh</string>
+    <string name="release_to_get_more">Release to load more.</string>
+    <string name="release_to_load">Release to load.</string>
+    <string name="release_to_refresh">Release to refresh.</string>
+    <string name="s1">Save image</string>
+    <string name="s2">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_hint">Search</string>
+    <string name="settings">Settings</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_up">Sign up</string>
+    <string name="star_4_8">4.8</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="today">Today</string>
+    <string name="tt_00_00">00:00</string>
+    <string name="tt_ad">Ad</string>
+    <string name="tt_ad_clicked_text">Ad shown</string>
+    <string name="tt_ad_close_text">Ad closed</string>
+    <string name="tt_ad_data_error">Response data error</string>
+    <string name="tt_ad_is_closed">Ads Closed</string>
+    <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_ad_showed_text">Ad showed</string>
+    <string name="tt_adslot_empty">No request ad slot</string>
+    <string name="tt_adslot_id_error">Illegal ad slot id</string>
+    <string name="tt_adslot_size_empty">Empty ad slot size</string>
+    <string name="tt_adtype_not_match_rit">Ad slot id error</string>
+    <string name="tt_app_empty">No request app</string>
+    <string name="tt_app_name">tt_open_ad_sdk</string>
+    <string name="tt_auto_play_cancel_text">Cancel</string>
+    <string name="tt_banner_ad_load_image_error">Banner loading failed</string>
+    <string name="tt_cancel">Cancel</string>
+    <string name="tt_choose_language">en</string>
+    <string name="tt_click_to_replay">Continue  to play</string>
+    <string name="tt_comment_num">%1$s score</string>
+    <string name="tt_comment_num_backup">%1$s score</string>
+    <string name="tt_comment_score">Evaluation</string>
+    <string name="tt_confirm_download">"Are you sure to download when using non-Wifi network?"</string>
+    <string name="tt_confirm_download_have_app_name">"Prepare to download %s"</string>
+    <string name="tt_content_type">Http content type error</string>
+    <string name="tt_count_down_view">Skip</string>
+    <string name="tt_dislike_header_tv_back">Back</string>
+    <string name="tt_dislike_header_tv_title">Choose</string>
+    <string name="tt_error_access_method_pass">Illegal access method</string>
+    <string name="tt_error_ad_able_false_msg">Prohibit request ads by compliance, please check COPPA/CCPA/GDPR settings</string>
+    <string name="tt_error_ad_sec_false_msg">Security Check Failed</string>
+    <string name="tt_error_ad_type">Illegal ad type</string>
+    <string name="tt_error_adtype_differ">Ad type error</string>
+    <string name="tt_error_apk_sign_check_error">Illegal apk sha1 value</string>
+    <string name="tt_error_code_adcount_error">Incorrect number of ad</string>
+    <string name="tt_error_code_click_event_error">Click event error</string>
+    <string name="tt_error_image_size">Illegal image size</string>
+    <string name="tt_error_media_id">Illegal media id</string>
+    <string name="tt_error_media_type">Illegal media type</string>
+    <string name="tt_error_new_register_limit">New ad slot exceeded daily request limit</string>
+    <string name="tt_error_origin_ad_error">Origin type error</string>
+    <string name="tt_error_package_name">Package name error</string>
+    <string name="tt_error_redirect">Redirect error</string>
+    <string name="tt_error_request_invalid">Invalid request</string>
+    <string name="tt_error_slot_id_app_id_differ">SlotId and AppId match error</string>
+    <string name="tt_error_splash_ad_type">Splash ad type error</string>
+    <string name="tt_error_union_os_error">Os type error</string>
+    <string name="tt_error_union_sdk_too_old">Sdk version too low</string>
+    <string name="tt_error_unknow">Unknown error</string>
+    <string name="tt_error_verify_reward">Reward verify error</string>
+    <string name="tt_feedback_experience_text">We will bring you a better advertising experience</string>
+    <string name="tt_feedback_submit_text">You have successfully submitted feedback, please do not submit it again</string>
+    <string name="tt_feedback_thank_text">Thanks for your feedback</string>
+    <string name="tt_frequent_call_erroe">Ad requests are too frequent</string>
+    <string name="tt_full_screen_skip_tx">Skip</string>
+    <string name="tt_get_reward">Get reward</string>
+    <string name="tt_init_setting_config_not_complete">Setting initialization is not completed</string>
+    <string name="tt_insert_ad_load_image_error">Interstitial loading failed</string>
+    <string name="tt_label_cancel">Cancel</string>
+    <string name="tt_label_ok">OK</string>
+    <string name="tt_lack_android_manifest_configuration">Initialization check error, please check the AndroidManifest</string>
+    <string name="tt_load_creative_icon_error">Icon loading failed</string>
+    <string name="tt_load_creative_icon_response_error">Icon loading error</string>
+    <string name="tt_load_failed_text">Load fail</string>
+    <string name="tt_load_success_text">Load success</string>
+    <string name="tt_loading_language">Landing page loading……</string>
+    <string name="tt_logo_cn">广告</string>
+    <string name="tt_logo_en">AD</string>
+    <string name="tt_msgPlayable">Finish playing to get rewards</string>
+    <string name="tt_negtiveBtnBtnText">Give up rewards</string>
+    <string name="tt_negtive_txt">Cancel</string>
+    <string name="tt_net_error">Network error</string>
+    <string name="tt_no_ad">No ad</string>
+    <string name="tt_no_ad_parse">Parsing data without ad</string>
+    <string name="tt_no_network">"Network is unavailable, please try again later."</string>
+    <string name="tt_parse_fail">Parsing error</string>
+    <string name="tt_permission_denied">You have prohibited from authorizing operation, please authorize it</string>
+    <string name="tt_playable_btn_play">experience now</string>
+    <string name="tt_postiveBtnText">Continue playing</string>
+    <string name="tt_postiveBtnTextPlayable">Continue playing</string>
+    <string name="tt_postive_txt">OK</string>
+    <string name="tt_privacy_title">Privacy Policy</string>
+    <string name="tt_reder_ad_load_timeout">Template loading timeout</string>
+    <string name="tt_render_diff_template_invalid">Template diff invalid</string>
+    <string name="tt_render_fail_meta_invalid">Template invalid</string>
+    <string name="tt_render_fail_template_parse_error">Template parsing error</string>
+    <string name="tt_render_fail_timeout">Render timeout</string>
+    <string name="tt_render_fail_unknown">Render failed unknown</string>
+    <string name="tt_render_main_template_invalid">Main template invalid</string>
+    <string name="tt_render_render_parse_error">Render parsing failed</string>
+    <string name="tt_request_body_error">Request entity is empty</string>
+    <string name="tt_request_pb_error">Http request pb error</string>
+    <string name="tt_reward_feedback">feedback</string>
+    <string name="tt_reward_msg">Finish playing to claim rewards</string>
+    <string name="tt_reward_screen_skip_tx">Skip</string>
+    <string name="tt_reward_video_show_error">onRewardedVideoAdFailedToShow</string>
+    <string name="tt_ror_code_show_event_error">Show event error</string>
+    <string name="tt_skip_ad_time_text">Skip after %ds</string>
+    <string name="tt_splash_ad_load_image_error">Splash loading failed</string>
+    <string name="tt_splash_cache_expired_error">Cache expired</string>
+    <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
+    <string name="tt_splash_not_have_cache_error">No splash cache</string>
+    <string name="tt_splash_rock_text">前往详情页或第三方应用</string>
+    <string name="tt_splash_rock_top_text">摇一摇 或 点击图标</string>
+    <string name="tt_splash_skip_tv">3s | Skip</string>
+    <string name="tt_splash_wriggle_text">前往详情页或第三方应用</string>
+    <string name="tt_splash_wriggle_top_text">扭动手机</string>
+    <string name="tt_splash_wriggle_top_text_style_17">扭动手机 或 点击图标</string>
+    <string name="tt_sys_error">System error</string>
+    <string name="tt_template_load_fail">main template load fail !</string>
+    <string name="tt_tip">Tip</string>
+    <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
+    <string name="tt_toast_later_download">Download later</string>
+    <string name="tt_toast_no_ad">No Ad to Show, Please Load Ad</string>
+    <string name="tt_toast_start_loading">Start Loading</string>
+    <string name="tt_toast_tiktok_ad_failed">TikTok Ad Failed to load, error code is:</string>
+    <string name="tt_try_now">Try now</string>
+    <string name="tt_txt_skip">Skip</string>
+    <string name="tt_unlike">Unlike</string>
+    <string name="tt_video_bytesize">Data</string>
+    <string name="tt_video_bytesize_M">M</string>
+    <string name="tt_video_bytesize_MB">MB</string>
+    <string name="tt_video_continue_play">ContinueToPlay</string>
+    <string name="tt_video_dial_phone">DialNow</string>
+    <string name="tt_video_download_apk">Download</string>
+    <string name="tt_video_mobile_go_detail">View Details</string>
+    <string name="tt_video_retry_des">Loading failed. Click to try again</string>
+    <string name="tt_video_retry_des_txt">load fail ，please retry</string>
+    <string name="tt_video_without_wifi_tips">Playing this content will use %.2f MB of data</string>
+    <string name="tt_wap_empty">No request wap</string>
+    <string name="tt_web_title_default">Advertise</string>
+    <string name="tt_will_play">PlayNow</string>
+    <string name="updating">Updating…</string>
+    <string name="yes">Yes</string>
+    <string name="yes_i_agree">Yes, I agree</string>
+    <string name="yesterday">Yesterday</string>
+    <style name="EditTextStyle">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:background">@color/tt_white</item>
+    </style>
+    <style name="LargeIconView">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+    </style>
+    <style name="SmallIconView">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+    <style name="Splash">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="Theme.Dialog.TTDownload" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="Theme.Dialog.TTDownloadOld" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+<item name="android:windowIsTranslucent">true</item>
+<item name="android:windowBackground">@android:color/transparent</item>
+<item name="android:windowContentOverlay">@null</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowIsFloating">true</item>
+<item name="android:backgroundDimEnabled">false</item>
+</style>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <style name="adfly_pop_form_bottom_animation">
+        <item name="android:windowEnterAnimation">@anim/adfly_pop_enter_from_bottom</item>
+        <item name="android:windowExitAnimation">@null</item>
+    </style>
+    <style name="com.applovin.mediation.MaxDebuggerActivity.ActionBar" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/applovin_sdk_brand_color</item>
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:titleTextStyle">@style/com.applovin.mediation.MaxDebuggerActivity.ActionBar.TitleTextStyle</item>
+    </style>
+    <style name="com.applovin.mediation.MaxDebuggerActivity.ActionBar.Live" parent="com.applovin.mediation.MaxDebuggerActivity.ActionBar">
+        <item name="android:background">@color/applovin_sdk_greenColor</item>
+    </style>
+    <style name="com.applovin.mediation.MaxDebuggerActivity.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/applovin_sdk_textColorPrimary</item>
+    </style>
+    <style name="com.applovin.mediation.MaxDebuggerActivity.Theme" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/com.applovin.mediation.MaxDebuggerActivity.ActionBar</item>
+    </style>
+    <style name="com.applovin.mediation.MaxDebuggerActivity.Theme.Live" parent="com.applovin.mediation.MaxDebuggerActivity.Theme">
+        <item name="android:actionBarStyle">@style/com.applovin.mediation.MaxDebuggerActivity.ActionBar.Live</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.AdBadgeTextView" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:background">@drawable/rounded_text_view_border</item>
+        <item name="android:textColor">@color/applovin_sdk_adBadgeTextColor</item>
+        <item name="android:text">Ad</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.AutoScrollingTextView" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.CTAButton" parent="android:Widget.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.LargeAdBadgeTextView" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.AdBadgeTextView">
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.LargeScrollingBodyTextView" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.AutoScrollingTextView">
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.LargeScrollingTitleTextView" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.ScrollingTitleTextView">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.LargeVerticalBodyTextSize" parent="android:Widget.TextView">
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.LargeVerticalTitleTextSize" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.TitleTextStyle">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.ScrollingTitleTextView" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.AutoScrollingTextView">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.SmallAdBadgeTextView" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.AdBadgeTextView">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.SmallScrollingBodyTextView" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.AutoScrollingTextView">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.SmallScrollingTitleTextView" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.ScrollingTitleTextView">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.SmallVerticalBodyTextSize" parent="android:Widget.TextView">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.SmallVerticalTitleTextSize" parent="com.applovin.mediation.nativeAds.MaxNativeAdView.TitleTextStyle">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="com.applovin.mediation.nativeAds.MaxNativeAdView.TitleTextStyle" parent="android:Widget.TextView">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="quick_option_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">?android:attr/windowNoTitle</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowSoftInputMode">stateHidden</item><!--显示软件盘-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_Widget_ProgressBar_Horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/tt_ad_download_progress_bar_horizontal</item>
+        <item name="android:minHeight">20dip</item>
+        <item name="android:maxHeight">20dip</item>
+    </style>
+    <style name="tt_animation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="tt_app_open_ad_no_animation" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/tt_animation</item>
+    </style>
+    <style name="tt_back_view">
+        <item name="android:minHeight">44dp</item>
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:text">"关闭"</item>
+        <!-- TextView in MX3 don't respond to click event if text is null -->
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="tt_custom_dialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_dislikeDialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowAnimationStyle">@style/tt_dislikeDialogAnimation</item>
+    </style>
+    <style name="tt_dislikeDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/tt_dislike_animation_show</item>
+        <item name="android:windowExitAnimation">@anim/tt_dislike_animation_dismiss</item>
+    </style>
+    <style name="tt_dislikeDialog_new">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/tt_dislikeDialogAnimation</item>
+    </style>
+    <style name="tt_full_screen" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/tt_full_status_bar_color</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowBackground">@color/tt_black</item>
+    </style>
+    <style name="tt_full_screen_interaction" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/tt_full_interaction_dialog_background</item><!-- dialog外无背景-->
+        <item name="android:windowCloseOnTouchOutside">false</item><!-- dialog外点击无效果-->
+        <item name="android:statusBarColor">@color/tt_full_status_bar_color</item>
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+    <style name="tt_full_screen_new" parent="android:Theme.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/tt_full_interaction_dialog_background</item><!-- dialog外无背景-->
+        <item name="android:windowCloseOnTouchOutside">false</item><!-- dialog外点击无效果-->
+        <item name="android:statusBarColor">@color/tt_full_status_bar_color</item>
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+    <style name="tt_landing_page" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/tt_full_status_bar_color</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowBackground">@color/tt_white</item>
+    </style>
+    <style name="tt_privacy_dialogTheme" parent="@android:style/Theme.Dialog">
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@drawable/tt_privacy_bg</item>
+        <!-- 模糊 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 遮罩层 -->
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+    <style name="tt_privacy_dialog_theme_ad_report" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+    </style>
+    <style name="tt_privacy_landing_page" parent="android:Theme.NoTitleBar">
+        <item name="android:selectableItemBackground">@drawable/tt_item_background_material</item>
+    </style>
+    <style name="tt_ss_popup_toast_anim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="tt_wg_insert_dialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_widget_gifView" parent="@android:style/Widget"/>
+    <declare-styleable name="AdsAttrs">
+<attr format="string" name="adSize"/>
+
+<attr format="string" name="adSizes"/>
+
+<attr format="string" name="adUnitId"/>
+</declare-styleable>
+    <declare-styleable name="ColorStateListItem">
+        <!-- Base color for this state. -->
+        <attr name="android:color"/>
+        <!-- Alpha multiplier applied to the base color. -->
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout">
+        <!-- A reference to an array of integers representing the
+             locations of horizontal keylines in dp from the starting edge.
+             Child views can refer to these keylines for alignment using
+             layout_keyline="index" where index is a 0-based index into
+             this array. -->
+        <attr format="reference" name="keylines"/>
+        <!-- Drawable to display behind the status bar when the view is set to draw behind it. -->
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        <!-- The class name of a Behavior class defining special runtime behavior
+             for this child view. -->
+        <attr format="string" name="layout_behavior"/>
+        <!-- The id of an anchor view that this view should position relative to. -->
+        <attr format="reference" name="layout_anchor"/>
+        <!-- The index of a keyline this view should position relative to.
+             android:layout_gravity will affect how the view aligns to the
+             specified keyline. -->
+        <attr format="integer" name="layout_keyline"/>
+
+        <!-- Specifies how an object should position relative to an anchor, on both the X and Y axes,
+             within its parent's bounds.  -->
+        <attr name="layout_anchorGravity">
+            <!-- Push object to the top of its container, not changing its size. -->
+            <flag name="top" value="0x30"/>
+            <!-- Push object to the bottom of its container, not changing its size. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Push object to the left of its container, not changing its size. -->
+            <flag name="left" value="0x03"/>
+            <!-- Push object to the right of its container, not changing its size. -->
+            <flag name="right" value="0x05"/>
+            <!-- Place object in the vertical center of its container, not changing its size. -->
+            <flag name="center_vertical" value="0x10"/>
+            <!-- Grow the vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill_vertical" value="0x70"/>
+            <!-- Place object in the horizontal center of its container, not changing its size. -->
+            <flag name="center_horizontal" value="0x01"/>
+            <!-- Grow the horizontal size of the object if needed so it completely fills its container. -->
+            <flag name="fill_horizontal" value="0x07"/>
+            <!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+            <flag name="center" value="0x11"/>
+            <!-- Grow the horizontal and vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill" value="0x77"/>
+            <!-- Additional option that can be set to have the top and/or bottom edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the vertical gravity: a top gravity will clip the bottom
+                 edge, a bottom gravity will clip the top edge, and neither will clip both edges. -->
+            <flag name="clip_vertical" value="0x80"/>
+            <!-- Additional option that can be set to have the left and/or right edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the horizontal gravity: a left gravity will clip the right
+                 edge, a right gravity will clip the left edge, and neither will clip both edges. -->
+            <flag name="clip_horizontal" value="0x08"/>
+            <!-- Push object to the beginning of its container, not changing its size. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Push object to the end of its container, not changing its size. -->
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        <!-- Specifies how this view insets the CoordinatorLayout and make some other views
+             dodge it. -->
+        <attr format="enum" name="layout_insetEdge">
+            <!-- Don't inset. -->
+            <enum name="none" value="0x0"/>
+            <!-- Inset the top edge. -->
+            <enum name="top" value="0x30"/>
+            <!-- Inset the bottom edge. -->
+            <enum name="bottom" value="0x50"/>
+            <!-- Inset the left edge. -->
+            <enum name="left" value="0x03"/>
+            <!-- Inset the right edge. -->
+            <enum name="right" value="0x05"/>
+            <!-- Inset the start edge. -->
+            <enum name="start" value="0x00800003"/>
+            <!-- Inset the end edge. -->
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        <!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. -->
+        <attr name="layout_dodgeInsetEdges">
+            <!-- Don't dodge any edges -->
+            <flag name="none" value="0x0"/>
+            <!-- Dodge the top inset edge. -->
+            <flag name="top" value="0x30"/>
+            <!-- Dodge the bottom inset edge. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Dodge the left inset edge. -->
+            <flag name="left" value="0x03"/>
+            <!-- Dodge the right inset edge. -->
+            <flag name="right" value="0x05"/>
+            <!-- Dodge the start inset edge. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Dodge the end inset edge. -->
+            <flag name="end" value="0x00800005"/>
+            <!-- Dodge all the inset edges. -->
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamily">
+        <!-- The authority of the Font Provider to be used for the request. -->
+        <attr format="string" name="fontProviderAuthority"/>
+        <!-- The package for the Font Provider to be used for the request. This is used to verify
+        the identity of the provider. -->
+        <attr format="string" name="fontProviderPackage"/>
+        <!-- The query to be sent over to the provider. Refer to your font provider's documentation
+        on the format of this string. -->
+        <attr format="string" name="fontProviderQuery"/>
+        <!-- The sets of hashes for the certificates the provider should be signed with. This is
+        used to verify the identity of the provider, and is only required if the provider is not
+        part of the system image. This value may point to one list or a list of lists, where each
+        individual list represents one collection of signature hashes. Refer to your font provider's
+        documentation for these values. -->
+        <attr format="reference" name="fontProviderCerts"/>
+        <!-- The strategy to be used when fetching font data from a font provider in XML layouts.
+        This attribute is ignored when the resource is loaded from code, as it is equivalent to the
+        choice of API between {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int)} (blocking) and
+        {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int, FontCallback, Handler)}
+        (async). -->
+        <attr name="fontProviderFetchStrategy">
+            <!-- The blocking font fetch works as follows.
+              First, check the local cache, then if the requested font is not cached, request the
+              font from the provider and wait until it is finished.  You can change the length of
+              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
+              default typeface will be used instead. -->
+            <enum name="blocking" value="0"/>
+            <!-- The async font fetch works as follows.
+              First, check the local cache, then if the requeted font is not cached, trigger a
+              request the font and continue with layout inflation. Once the font fetch succeeds, the
+              target text view will be refreshed with the downloaded font data. The
+              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            <enum name="async" value="1"/>
+        </attr>
+        <!-- The length of the timeout during fetching. -->
+        <attr format="integer" name="fontProviderFetchTimeout">
+            <!-- A special value for the timeout. In this case, the blocking font fetching will not
+              timeout and wait until a reply is received from the font provider. -->
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamilyFont">
+        <!-- The style of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any style information in the font's header tables. If
+         unspecified, the value in the font's header tables will be used. -->
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        <!-- The reference to the font file to be used. This should be a file in the res/font folder
+         and should therefore have an R reference value. E.g. @font/myfont -->
+        <attr format="reference" name="font"/>
+        <!-- The weight of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any weight information in the font's header tables. Must
+         be a positive number, a multiple of 100, and between 100 and 900, inclusive. The most
+         common values are 400 for regular weight and 700 for bold weight. If unspecified, the value
+         in the font's header tables will be used. -->
+        <attr format="integer" name="fontWeight"/>
+        <!-- The variation settings to be applied to the font. The string should be in the following
+         format: "'tag1' value1, 'tag2' value2, ...". If the default variation settings should be
+         used, or the font used does not support variation settings, this attribute needs not be
+         specified. -->
+        <attr format="string" name="fontVariationSettings"/>
+        <!-- The index of the font in the tcc font file. If the font file referenced is not in the
+        tcc format, this attribute needs not be specified. -->
+        <attr format="integer" name="ttcIndex"/>
+        <!-- References to the framework attrs -->
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColor">
+        <!-- Start color of the gradient. -->
+        <attr name="android:startColor"/>
+        <!-- Optional center color. -->
+        <attr name="android:centerColor"/>
+        <!-- End color of the gradient. -->
+        <attr name="android:endColor"/>
+        <!-- Type of gradient. The default type is linear. -->
+        <attr name="android:type"/>
+
+        <!-- Only applied to RadialGradient-->
+        <!-- Radius of the gradient, used only with radial gradient. -->
+        <attr name="android:gradientRadius"/>
+
+        <!-- Only applied to SweepGradient / RadialGradient-->
+        <!-- X coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerX"/>
+        <!-- Y coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerY"/>
+
+        <!-- LinearGradient specific -->
+        <!-- X coordinate of the start point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startX"/>
+        <!-- Y coordinate of the start point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startY"/>
+        <!-- X coordinate of the end point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endX"/>
+        <!-- Y coordinate of the end point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endY"/>
+
+        <!-- Defines the tile mode of the gradient. SweepGradient doesn't support tiling. -->
+        <attr name="android:tileMode"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColorItem">
+        <!-- The offset (or ratio) of this current color item inside the gradient.
+             The value is only meaningful when it is between 0 and 1. -->
+        <attr name="android:offset"/>
+        <!-- The current color for the offset inside the gradient. -->
+        <attr name="android:color"/>
+    </declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
+<enum name="none" value="0"/>
+
+<enum name="adjust_width" value="1"/>
+
+<enum name="adjust_height" value="2"/>
+
+</attr>
+
+<attr format="float" name="imageAspectRatio"/>
+
+<attr format="boolean" name="circleCrop"/>
+</declare-styleable>
+    <declare-styleable name="RecyclerView">
+        <!-- Class name of the Layout Manager to be used.
+        <p/>
+        The class must ext androidx.recyclerview.widget.RecyclerViewView$LayoutManager
+        and have either a default constructor or constructor with the signature
+        (android.content.Context, android.util.AttributeSet, int, int).
+         <p/>
+         If the name starts with a '.', application package is prefixed.
+         Else, if the name contains a '.', the classname is assumed to be a full class name.
+         Else, the recycler view package naandroidx.appcompat.widgetdget) is prefixed. -->
+        <attr format="string" name="layoutManager"/>
+
+        <!-- ============================= -->
+        <!-- Attributes for Layout Manager -->
+        <!-- ============================= -->
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="android:descendantFocusability"/>
+        <attr name="android:clipToPadding"/>
+        <attr format="integer" name="spanCount"/>
+        <attr format="boolean" name="reverseLayout"/>
+        <attr format="boolean" name="stackFromEnd"/>
+        <attr format="boolean" name="fastScrollEnabled"/>
+        <attr format="reference" name="fastScrollVerticalThumbDrawable"/>
+        <attr format="reference" name="fastScrollVerticalTrackDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
+    </declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
+<enum name="standard" value="0"/>
+
+<enum name="wide" value="1"/>
+
+<enum name="icon_only" value="2"/>
+
+</attr>
+<attr format="reference" name="colorScheme">
+<enum name="dark" value="0"/>
+
+<enum name="light" value="1"/>
+
+<enum name="auto" value="2"/>
+
+</attr>
+
+<attr format="reference|string" name="scopeUris"/>
+</declare-styleable>
+</resources>

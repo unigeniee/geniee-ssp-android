@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/type11or12_pop_c"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="32dp"
+    android:layout_marginLeft="32dp"
+    android:paddingBottom="20dp"
+    android:paddingRight="24dp"
+    android:paddingLeft="24dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/adfly_bg_rewardvideo_pop2">
+    <com.adfly.sdk.core.widget.RoundImageView
+        android:id="@+id/app_icon"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView android:id="@+id/title_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_marginTop="12dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:textSize="17sp"
+        android:textColor="#1D1D1D"
+        tools:text="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
+
+    <TextView android:id="@+id/desc_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:textColor="#5F5F5F"
+        tools:text="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp">
+        <TextView android:id="@+id/down_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@drawable/adfly_bg_rewardvideo_pop_btn3"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:paddingTop="11dp"
+            android:paddingBottom="11dp"
+            tools:text= "aaaaaaaaaa"/>
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginRight="31dp"
+            android:layout_alignParentRight="true"
+            android:src="@mipmap/adfly_rewarded_guide_icon"/>
+    </RelativeLayout>
+</LinearLayout>
