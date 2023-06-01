@@ -6,30 +6,4 @@
   <artifactId>GenieeSDK</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>jp.co.geniee.gnsrewardadapter</groupId>
-      <artifactId>GNSRewardAdapter-Amoad</artifactId>
-      <version>6.5.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>jp.co.geniee.gnsrewardadapter</groupId>
-      <artifactId>GNSRewardAdapter-CAReward</artifactId>
-      <version>6.5.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>jp.co.geniee.gnsrewardadapter</groupId>
-      <artifactId>GNSRewardAdapter-Maio</artifactId>
-      <version>6.5.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>jp.co.geniee.gnsrewardadapter</groupId>
-      <artifactId>GNSRewardAdapter-Nend</artifactId>
-      <version>6.5.1</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
